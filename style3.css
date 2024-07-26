@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.color{
+ 
+      position: relative;
+      border: 1px solid;
+       width: 99.9%;
+       height: 692px;
+       background-color: black;
+}
+
+h1{
+    position: relative;
+    color: white;
+    font-size: 70px;
+    font-style:italic;
+    font-family:cursive;
+    text-align: center;
+    top: 80px;
+}
+
+.box{
+    position: relative;
+    border: 1px solid;
+    width: 25%;
+    height: 380px;
+    border-color: white;
+    top: 130px;
+    left: 37.4%;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+
+
+h2{
+    position: relative;
+    text-align: center;
+    top: 10px;
+    font-family:cursive;
+}
+
+hr{
+    position: relative;
+    top: 20px;
+    width: 98%;
+    height: 1px;
+    left: 2px;
+color: beige;
+}
+
+input{
+    position: relative;
+    top: 50px;
+    width: 95%;
+    height: 30px;
+    left: 6px;
+    border-radius: 5px;
+}
+
+.inputbox{
+    top: 70px;
+}
+.inputbox1{
+    top: 90px;
+}
+
+
+
+.parragraph{
+    position: relative;
+    top: 150px;
+    left: 20px;
+    color:blue;
+}
+
+
+button{
+    position: relative;
+    top: 130px;
+    left: 70%;
+    width: 80px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    border:none;
+}

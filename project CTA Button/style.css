@@ -1,0 +1,115 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+ul{
+    display: flex;
+    border: 1px solid;
+    width: 99.9%;
+    height: 40px;
+    border-radius: 2px;
+    padding: 10px;
+}
+
+.starbox{
+    position: relative;
+    border: 1px solid;
+    width: 10%;
+    height: 37px;
+    top: -9px;
+    left: 80px; 
+    background-color: aliceblue;
+}
+
+.th{
+    position: relative;
+    text-align: center;
+    top: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+
+
+
+li{
+    position: relative;
+    list-style: none;
+    
+}
+
+a{
+    text-decoration: none;
+    padding: 70px 70px 70px 70px;
+}
+
+
+
+.images{
+      position: relative;
+      background: url(health-21.jpg);
+      height: 654px;   
+
+    }
+
+
+.text{
+
+   padding: 10%;
+
+}
+
+h1{
+    position: relative;
+    font-size: 60px;
+}
+
+.a{
+    margin: 10px;
+    font-size: 20px;
+}
+
+.box{
+    position: relative;
+    border: 1px solid;
+    width: 280px;
+    height: 90px;
+    left: 160px;
+    background-color: aliceblue;
+    border: none;
+}
+
+.box1{
+    position: relative;
+    border: 1px solid;
+    width: 280px;
+    height: 90px;
+    left: 300px;
+    top: -20px;
+    background-color: aliceblue;
+    border: none;
+}
+
+   .b{
+    position: relative;
+    top: 60px;
+    cursor: pointer;
+
+   }
+
+   i{
+    position: relative;
+    left: 258px;
+   }
+
+
+
+   .c{
+    position: relative;
+    top: 60px;
+    cursor: pointer;
+   }
